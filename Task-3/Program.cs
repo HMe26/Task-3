@@ -216,10 +216,10 @@ namespace StudentManagement
                 Console.WriteLine("6. Show All Courses");
                 Console.WriteLine("7. Show All Instructors");
                 Console.WriteLine("8. Find the student by id or name");
-                Console.WriteLine("9. Fine the course by id or name");
+                Console.WriteLine("9. Find the course by id or name");
                 Console.WriteLine("10. Exit");
                 Console.WriteLine("11. Check if the student enrolled in specific course");
-                Console.WriteLine("12 Return the instructor name by course name");
+                Console.WriteLine("12. Return the instructor name by course name");
                 Console.WriteLine("13. Update Student Information");
                 Console.WriteLine("14. Delete a Student");
                 int choice = Convert.ToInt32(Console.ReadLine());
